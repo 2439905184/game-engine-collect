@@ -7,3 +7,4 @@
 | kodu     | | yes| 
 | cocos-2dx | yes | yes |
 | GDevelop | yes | yes |
+| flax engine| yes | yes |
