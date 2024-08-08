@@ -9,3 +9,6 @@
 | GDevelop | yes | yes |
 | flax engine| yes | yes |
 | libgdx | yes | yes |
+| entigls| no | yes|
+| painter engine | yes | yes|
+| love2d | yes | yes |
