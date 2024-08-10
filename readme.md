@@ -12,3 +12,4 @@
 | entigls| no | yes|
 | painter engine | yes | yes|
 | love2d | yes | yes |
+| monogame | yes | yes |
