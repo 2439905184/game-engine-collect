@@ -13,4 +13,8 @@
 | painter engine | yes | yes|
 | love2d | yes | yes |
 | monogame | yes | yes |
-｜ct.js |yes |yes |
+|ct.js |yes |yes |
+| bevy| yes | yes |
+| max2d |no | yes|
+| obengine| yes |yes|
+|solar2d | yes | yes|
