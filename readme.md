@@ -14,3 +14,5 @@
 | love2d | yes | yes |
 | monogame | yes | yes |
 | irrchlit| yes |yes|
+| twine| yes |yes |
+| dagorengine| yes | yes |
