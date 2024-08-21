@@ -16,3 +16,4 @@
 | irrchlit| yes |yes|
 | twine| yes |yes |
 | dagorengine| yes | yes |
+| Lgame | yes |yes |
