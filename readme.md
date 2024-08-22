@@ -18,3 +18,5 @@
 | dagorengine| yes | yes |
 | Lgame | yes |yes |
 | lwjgl| yes | yes |
+| suika2| yes |yes |
+| catsystem|no |yes|
