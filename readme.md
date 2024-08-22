@@ -17,3 +17,4 @@
 | twine| yes |yes |
 | dagorengine| yes | yes |
 | Lgame | yes |yes |
+| lwjgl| yes | yes |
