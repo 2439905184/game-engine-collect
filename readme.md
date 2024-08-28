@@ -20,3 +20,4 @@
 | lwjgl| yes | yes |
 | suika2| yes |yes |
 | catsystem|no |yes|
+| 游戏制作创意齿轮| no | no|
