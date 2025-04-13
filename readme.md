@@ -25,3 +25,4 @@
 | rpgmaker| no | yes |
 |[echo](https://github.com/timi-liuliang/echo)| yes |yes|
 |[rpg bakin](https://rpgbakin.com/en/) | no | no |
+|EzEngine |https://ezengine.net/ | yes |
