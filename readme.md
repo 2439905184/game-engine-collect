@@ -27,3 +27,4 @@
 |[rpg bakin](https://rpgbakin.com/en/) | no | no |
 |EzEngine |https://ezengine.net/ | yes |
 |[yami rpg maker](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/?l=schinese)| no | no |
+|[fuel](https://github.com/awemorris/fuel)|  yes| yes|
