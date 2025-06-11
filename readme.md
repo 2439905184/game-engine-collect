@@ -29,3 +29,4 @@
 |[yami rpg maker](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/?l=schinese)| no | no |
 |[fuel](https://github.com/awemorris/fuel)|  yes| yes|
 |[Ebitengine](https://ebitengine.org/)|yes | yes|
+|[gfx](https://gfx-engine.org/)|yes|yes|
