@@ -30,3 +30,4 @@
 |[fuel](https://github.com/awemorris/fuel)|  yes| yes|
 |[Ebitengine](https://ebitengine.org/)|yes | yes|
 |[gfx](https://gfx-engine.org/)|yes|yes|
+|[luxe](https://luxeengine.com/)|yes|yes|
