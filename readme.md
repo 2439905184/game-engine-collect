@@ -31,3 +31,4 @@
 |[Ebitengine](https://ebitengine.org/)|yes | yes|
 |[gfx](https://gfx-engine.org/)|yes|yes|
 |[luxe](https://luxeengine.com/)|yes|yes|
+|[playcanvas](https://playcanvas.com/)|yes|yes|
