@@ -32,3 +32,4 @@
 |[gfx](https://gfx-engine.org/)|yes|yes|
 |[luxe](https://luxeengine.com/)|yes|yes|
 |[playcanvas](https://playcanvas.com/)|yes|yes|
+|[openfl](https://www.openfl.org/)|yes|yes|
