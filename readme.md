@@ -35,3 +35,4 @@
 |[openfl](https://www.openfl.org/)|yes|yes|
 |[PlayfieldEngine](https://github.com/awemorris/PlayfieldEngine)|yes| yes|
 |[urge](https://urge.admenri.com/)|yes|yes|
+|[Gaijin的全新开源游戏引擎 - EDENSPARK-哔哩哔哩](https://b23.tv/4utm7p8)|yes|yes|
