@@ -39,3 +39,4 @@
 |[tophat2d](https://github.com/tophat2d/tophat/releases)|yes|yes|
 |[s&box](https://sbox.game/)|yes|yes|
 |[OpenBor](https://www.speedallonlinegamessiteshere.com/openbor-game-club)| yes | yes |
+|[chronocrash](https://www.chronocrash.com/)| yes | yes |
