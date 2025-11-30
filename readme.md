@@ -40,3 +40,4 @@
 |[s&box](https://sbox.game/)|yes|yes|
 |[OpenBor](https://www.speedallonlinegamessiteshere.com/openbor-game-club)| yes | yes |
 |[chronocrash](https://www.chronocrash.com/)| yes | yes |
+|[鹰歌引擎](https://gitee.com/leamus/MakerFrame)| yes | yes |
