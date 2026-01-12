@@ -41,3 +41,4 @@
 |[OpenBor](https://www.speedallonlinegamessiteshere.com/openbor-game-club)| yes | yes |
 |[chronocrash](https://www.chronocrash.com/)| yes | yes |
 |[鹰歌引擎](https://gitee.com/leamus/MakerFrame)| yes | yes |
+|[the games factory2](https://www.clickteam.com/the-games-factory-2)| no | no |
