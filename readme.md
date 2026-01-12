@@ -9,9 +9,9 @@
 | GDevelop | yes | yes |
 | flax engine| yes | yes |
 | libgdx | yes | yes |
-| entigls| no | yes|
+| [entigls](http://www.entis.jp/gls/)| no | yes|
 | painter engine | yes | yes|
-| love2d | yes | yes |
+| [love2d](http://love2d.org/) | yes | yes |
 | monogame | yes | yes |
 | irrchlit| yes |yes|
 | twine| yes |yes |
