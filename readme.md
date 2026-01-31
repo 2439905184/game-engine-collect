@@ -43,3 +43,4 @@
 |[鹰歌引擎](https://gitee.com/leamus/MakerFrame)| yes | yes |
 |[the games factory2](https://www.clickteam.com/the-games-factory-2)| no | no |
 |[GN engine](http://www.img-power.com/) [作者](https://space.bilibili.com/368873267?spm_id_from=333.788.upinfo.head.click) | 不清楚|  yes|
+|[8.2project-gamemaker8修改版](https://gm82.cherry-treehouse.com/#News) | yes | yes |
