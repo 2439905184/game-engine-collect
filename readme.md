@@ -46,3 +46,4 @@
 |[8.2project-gamemaker8修改版](https://gm82.cherry-treehouse.com/#News) | yes | yes |
 |[pixelbox.js](https://pixwlk.itch.io/pixelbox) | yes| yes|
 |[J2ME-Game-Engine](https://github.com/mrzacarias/J2ME-Game-Engine)| yes| yes|
+|[kaiju](https://kaijuengine.com/)| yes| yes|
