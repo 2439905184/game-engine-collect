@@ -48,3 +48,4 @@
 |[J2ME-Game-Engine](https://github.com/mrzacarias/J2ME-Game-Engine)| yes| yes|
 |[kaiju](https://kaijuengine.com/)| yes| yes|
 |[unengine](https://unigine.com/#intro)| 不清楚| 不清楚 | 
+|[pyrite64使用 libdragon 与 tiny3d 的 N64 游戏引擎及编辑器【此简介由AI生成】](https://gitcode.com/GitHub_Trending/py/pyrite64) |yes| yes|
