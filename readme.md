@@ -51,3 +51,4 @@
 |[pyrite64使用 libdragon 与 tiny3d 的 N64 游戏引擎及编辑器【此简介由AI生成】](https://gitcode.com/GitHub_Trending/py/pyrite64) |yes| yes|
 |[bitmelo](https://kkgithub.com/byersdz/bitmelo) Bitmelo 是一个游戏编辑器和引擎，可以在你的浏览器中制作小型像素艺术游戏。这个编辑器将开发游戏所需的一切集中在一个便捷的位置。你可以编写代码、绘制瓷砖和瓷砖地图、设计音效、查看文档，并进行游戏测试，而无需通过切换应用程序来打断注意力。一旦完成，你就可以将游戏导出为单个 HTML 文件。 | yes | yes |
 |[GDEngine](https://gitee.com/shikeik/GDEngine.git)| yes | yes |
+|[usagi engine](https://usagiengine.com/) Usagi - Simple 2D Game Engine for Rapid Prototyping | yes | yes |
