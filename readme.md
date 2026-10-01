@@ -53,3 +53,4 @@
 |[GDEngine](https://gitee.com/shikeik/GDEngine.git)| yes | yes |
 |[usagi engine](https://usagiengine.com/) Usagi - Simple 2D Game Engine for Rapid Prototyping | yes | yes |
 |[Doriax](https://www.doriax.org/) [链接](【免费开源！比Unity还顺手的国产味引擎？Doriax上手实测 #游戏引擎 #开源引擎 #Doriax #C++游戏开发 #Lua脚本 #2D游戏引擎 #3D游-哔哩哔哩】 https://b23.tv/nESB3lb)| yes | yes |
+|[manu游戏引擎](https://manu.co/)| 不清楚 | 不清楚 |
